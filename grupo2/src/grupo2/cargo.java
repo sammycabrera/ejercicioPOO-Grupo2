@@ -36,3 +36,4 @@ public class cargo {
         this.descripcion = descripcion;
     
 }
+}
