@@ -9,10 +9,10 @@ package grupo2;
  *
  * @author win
  */
-public class clientes extends persona{
+public class Cliente extends Persona{
     
- private string email;
- private string celular;
+ private String email;
+ private String celular;
   
 
 public Cliente() {
